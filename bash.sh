@@ -1,0 +1,1 @@
+for FILE in *; do cat $FILE; done
